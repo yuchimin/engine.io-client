@@ -1,6 +1,6 @@
 {
   "name": "engine.io-client-wxmp",
-  "description": "Client for the realtime Engine",
+  "description": "engine.io-client for WeChat mini program",
   "license": "MIT",
   "version": "4.0.5",
   "main": "lib/index.js",
