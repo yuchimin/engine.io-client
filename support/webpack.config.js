@@ -1,7 +1,7 @@
 const { BannerPlugin } = require("webpack");
 const version = require("../package.json").version;
 
-const banner = `Engine.IO v${version}
+const banner = `Engine.IO-WXMP v${version}
 (c) 2014-${new Date().getFullYear()} Guillermo Rauch
 Released under the MIT License.`;
 
